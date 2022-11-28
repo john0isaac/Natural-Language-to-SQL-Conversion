@@ -23,3 +23,18 @@ nltk.download()
 Run Server : $ python nlp-sql.py
 
 References: [1] Garima Singh, Arun Solanki 2016. An algorithm to transform natural language into SQL queries for relational databases. Gautam Buddha University, Greater Noida, India
+
+
+## Difference 
+sql, Readme
+
+
+## Future Work:
+- lexical analysis 
+- syntax analysis
+- Intermediate representation
+- [DONE] generation of SQL statements 
+- [DONE] sample input and output  queries as results
+- all references you used 
+- Edit Layout frontend
+- Check dependencies frontend
