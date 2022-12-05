@@ -30,11 +30,11 @@ sql, Readme
 
 
 ## Future Work:
-- lexical analysis 
-- syntax analysis
-- Intermediate representation
+- [DONE] lexical analysis 
+- [DONE] syntax analysis
+- [DONE] Intermediate representation
 - [DONE] generation of SQL statements 
 - [DONE] sample input and output  queries as results
-- all references you used 
-- Edit Layout frontend
-- Check dependencies frontend
+- [DONE] all references you used 
+- [DONE] Edit Layout frontend
+- [DONE] Check dependencies frontend

@@ -128,10 +128,10 @@ div.terminal {
   background-color: #59595d;
 }
 .close-bar-icon {
-	border-radius: 50%;
-	font-size: 9px;
-	font-weight: 800;
-	padding:5px;
+	border-radius: 45%;
+	font-size: 10px;
+	font-weight: 500;
+	padding: 6px;
 	background-color: #928c8c;
 	margin-left: 5px;
 }
@@ -142,11 +142,11 @@ div.terminal {
   width: 60px;
 }
 div.close-bar{
-	height:25px;
+	height:32px;
 	padding-left: 10px;
 	background-color: #4d52568c;
-	border-top-left-radius: 7px;
-	border-top-right-radius: 7px;
+	border-top-left-radius: 10px;
+	border-top-right-radius: 10px;
 }
 
 .terminal-text-precommand{
